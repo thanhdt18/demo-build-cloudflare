@@ -42,7 +42,7 @@ const ContactCTA = () => {
                   <Mail className="w-5 h-5 text-accent" />
                 </div>
                 <span className="text-white font-bold text-lg group-hover:text-accent transition-colors">
-                  thanh2k22@gmail.com
+                  raykayn01@gmail.com
                 </span>
               </div>
             </div>
